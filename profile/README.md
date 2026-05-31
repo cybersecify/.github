@@ -1,4 +1,4 @@
-# Cybersecify - Secure Your Digital Future
+# Cybersecify — Secure Your Digital Future
 
 **Founder-led penetration testing, security consulting, and open-source attack surface detection for AI-first and API-first SaaS startups in Bengaluru.**
 
@@ -20,9 +20,9 @@ We find the business logic flaws automated scanners miss and deliver reports you
 
 ## Open Source
 
-### [OpenEASD](https://github.com/cybersecify/OpenEASD) — Open External Attack Surface Detection
+### 🔒 OpenEASD — Open External Attack Surface Detection
 
-[![Stars](https://img.shields.io/github/stars/cybersecify/OpenEASD?style=social)](https://github.com/cybersecify/OpenEASD/stargazers) [![CI](https://github.com/cybersecify/OpenEASD/actions/workflows/ci.yml/badge.svg)](https://github.com/cybersecify/OpenEASD/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/cybersecify/OpenEASD/blob/main/LICENSE)
+[![CI](https://github.com/cybersecify/OpenEASD/actions/workflows/ci.yml/badge.svg)](https://github.com/cybersecify/OpenEASD/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/cybersecify/OpenEASD/blob/main/LICENSE)
 
 A self-hosted domain scanner that wraps subfinder, amass, dnsx, naabu, httpx, nuclei, and nmap behind a single web UI with scheduling, alerts, and findings tracking. Surfaces 11 attack vectors across DNS, email, TLS, SSH, ports, CVEs, and web hygiene. Free, MIT-licensed, one `docker run`. Results stay on your machine.
 
@@ -30,18 +30,26 @@ A self-hosted domain scanner that wraps subfinder, amass, dnsx, naabu, httpx, nu
 
 ## About Us
 
-- 📍 **Location:** Bengaluru, Karnataka, India
-- - 🎯 **Focus:** Seed to Series B SaaS startups
-  - - 🛡️ **Frameworks:** OWASP Top 10, PTES, MITRE ATT&CK
-    - - ✅ **Compliance:** DPDP Act, RBI cybersecurity directives, ISO 27001, SOC 2
-      - - 🏆 **Community Partner:** Security BSides Bangalore 2026
-       
-        - ---
+📍 **Location:** Bengaluru, Karnataka, India
 
-        ## Connect
+🎯 **Focus:** Seed to Series B SaaS startups
 
-        [![Website](https://img.shields.io/badge/cybersecify.com-Visit-0a0a0a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cybersecify.com)
-        [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cybersecify)
-        [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cybersecify)
-        [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cybersecifyconsulting)
-        [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@cybersecify.com)
+🛡️ **Frameworks:** OWASP Top 10, PTES, MITRE ATT&CK
+
+✅ **Compliance:** DPDP Act, RBI cybersecurity directives, ISO 27001, SOC 2
+
+🏆 **Community Partner:** Security BSides Bangalore 2026
+
+---
+
+## Connect
+
+[![Website](https://img.shields.io/badge/cybersecify.com-Visit-0a0a0a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cybersecify.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cybersecify)
+
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cybersecify)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cybersecifyconsulting)
+
+[![Email](https://img.shields.io/badge/Email-contact%40cybersecify.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@cybersecify.com)

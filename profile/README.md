@@ -1,4 +1,4 @@
-# Cyber Secify — Secure Your Digital Future
+# Cybersecify — Secure Your Digital Future
 
 **Founder-led penetration testing, security consulting, and open-source attack surface detection for AI-first and API-first SaaS startups in Bengaluru.**
 

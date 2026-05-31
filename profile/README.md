@@ -33,7 +33,7 @@ A self-hosted domain scanner that wraps subfinder, amass, dnsx, naabu, httpx, nu
 - 📍 **Location:** Bengaluru, Karnataka, India
 - - 🎯 **Focus:** Seed to Series B SaaS startups
   - - 🛡️ **Frameworks:** OWASP Top 10, PTES, MITRE ATT&CK
-    - - ✅ **Compliance:** CERT-In, DPDP Act, RBI cybersecurity directives, ISO 27001, SOC 2
+    - - ✅ **Compliance:** DPDP Act, RBI cybersecurity directives, ISO 27001, SOC 2
       - - 🏆 **Community Partner:** Security BSides Bangalore 2026
        
         - ---

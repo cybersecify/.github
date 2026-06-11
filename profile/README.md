@@ -22,9 +22,11 @@ We find the business logic flaws automated scanners miss and deliver reports you
 
 ### 🔒 OpenEASD — Open External Attack Surface Detection
 
-[![CI](https://github.com/cybersecify/OpenEASD/actions/workflows/ci.yml/badge.svg)](https://github.com/cybersecify/OpenEASD/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/cybersecify/OpenEASD/blob/main/LICENSE)
+[![CI](https://github.com/cybersecify/OpenEASD/actions/workflows/ci.yml/badge.svg)](https://github.com/cybersecify/OpenEASD/actions/workflows/ci.yml) [![CodeQL](https://github.com/cybersecify/OpenEASD/actions/workflows/codeql.yml/badge.svg)](https://github.com/cybersecify/OpenEASD/actions/workflows/codeql.yml) [![Docker Image](https://img.shields.io/badge/ghcr.io-latest-2496ed?logo=docker&logoColor=white)](https://github.com/cybersecify/OpenEASD/pkgs/container/openeasd) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/cybersecify/OpenEASD/blob/main/LICENSE) [![GitHub Stars](https://img.shields.io/github/stars/cybersecify/OpenEASD?style=social)](https://github.com/cybersecify/OpenEASD/stargazers)
 
-A self-hosted domain scanner that wraps subfinder, amass, dnsx, naabu, httpx, nuclei, and nmap behind a single web UI with scheduling, alerts, and findings tracking. Surfaces 11 attack vectors across DNS, email, TLS, SSH, ports, CVEs, and web hygiene. Free, MIT-licensed, one `docker run`. Results stay on your machine.
+A self-hosted external attack surface scanner. Wraps the standard OSS recon tools — `subfinder`, `amass`, `alterx`, `dnsx`, `subzy`, `naabu`, `httpx`, `gau`, `waybackurls`, `katana`, `nuclei`, `nmap`, and `cloud_enum` — behind a single web UI with scheduling, alerts, and findings tracking. Covers DNS, email, TLS, SSH, ports, CVEs, subdomain takeover, historical URLs, cloud assets, and web hygiene. Self-hosted, MIT-licensed, one `docker run`. No telemetry. Results stay on your machine.
+
+→ [github.com/cybersecify/OpenEASD](https://github.com/cybersecify/OpenEASD)
 
 ---
 

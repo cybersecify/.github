@@ -46,7 +46,7 @@ OWASP WSTG v4.2, OWASP API Security Top 10 2023, OWASP Top 10:2025, OWASP ASVS 5
 
 [**OpenEASD**](https://github.com/cybersecify/OpenEASD) is our free, MIT licensed external attack surface discovery tool. It finds internet facing assets, scores what is wrong with them, and on a rescan tells you what is new and what is gone since the last run.
 
-It wraps the standard OSS recon tools (`subfinder`, `amass`, `alterx`, `dnsx`, `subzy`, `naabu`, `httpx`, `gau`, `waybackurls`, `katana`, `nuclei`, `nmap` and `cloud_enum`) behind a single web UI with scheduling, alerts and findings tracking. No telemetry. Results stay on your machine.
+It wraps the standard OSS recon tools (`subfinder`, `amass`, `alterx`, `dnsx`, `subzy`, `naabu`, `httpx`, `gau`, `katana`, `nuclei`, `nmap`, `gitleaks` and `cloud_enum`) behind a single web UI with scheduling, alerts and findings tracking. No telemetry. Results stay on your machine.
 
 Self host the Docker image and run unlimited scans on your own infrastructure, or use the free hosted snapshot at [cybersecify.com/openeasd](https://cybersecify.com/openeasd/). There is no paid tier and no upsell on the tool itself. Sample output: [cybersecify.com/sample-openeasd-report](https://cybersecify.com/sample-openeasd-report/).
 
